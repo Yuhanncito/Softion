@@ -5,7 +5,7 @@ import Breadcrumbs from "../components/breadcrumbs";
 
 const LayoutPublic = () => {
     return (
-        <div>
+        <div className="w-screen h-screen flex flex-col">
             <Header />
             <div className='flex justify-center'>
                 <Breadcrumbs />
