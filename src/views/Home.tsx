@@ -21,7 +21,7 @@ function Home() {
         <h3 className={styles.subtitle}>
           Una herramienta de gestión de proyectos con la peculiaridad de poder gestionar tus actividades por horas dedicadas a cada tarea.
         </h3>
-        <img src="/images/loginSoftio.jpg" alt="" className=' border-gray-950 shadow-gray-600 w-[70%] shadow-2xl mt-5 hover:scale-110 duration-300'/>
+        <img src="/images/loginSoftio.png" alt="" className=' border-gray-950 shadow-gray-600 w-[70%] shadow-2xl mt-5 hover:scale-110 duration-300'/>
       </motion.div>
       <motion.div
         initial={{ opacity: 0 }}
@@ -40,7 +40,7 @@ function Home() {
       >
         <h1 className={styles.title}>Fácil de Usar</h1>
         <div className='flex max-sm:flex-col px-36 max-sm:px-16 max-sm:mb-8 mb-16 items-center'>
-          <img src="/images/homeSoftion.jpg" alt="" className=' border-gray-950 max-sm:mb-10 shadow-gray-600 max-sm:w-full w-[50%] shadow-2xl mt-5'/>
+          <img src="/images/homeSoftion.png" alt="" className=' border-gray-950 max-sm:mb-10 shadow-gray-600 max-sm:w-full w-[50%] shadow-2xl mt-5'/>
           <div className='flex flex-col items-center '>
             <h3 className={styles.subtitle + " max-sm:w-full max-sm:px-2 w-[85%]  px-12"}>
               Por su interfás facil y sencilla de entender y de aprender, organizar tus actividades será una tarea facil de hacer. Gracias a sus diversas opciones, tendrás una gran variedad de personalización en tus tareas       

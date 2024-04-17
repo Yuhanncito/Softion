@@ -19,7 +19,7 @@ function WebApp() {
         <h3 className={styles.subtitle}>
           SoftionPro es más que una simple herramienta de gestión de proyectos. Es una solución integral que te permite controlar tus actividades basándote en el tiempo que dedicas a cada una. Con SoftionPro, tienes el control total de tus tareas, con la posibilidad de personalizar cada detalle.
         </h3>
-        <img src="/images/loginSoftio.jpg" alt="" className=' border-gray-950 shadow-gray-600 w-[70%] shadow-2xl mt-5 hover:scale-110 duration-300'/>
+        <img src="/images/canvaPage.png" alt="" className=' border-gray-950 shadow-gray-600 w-[70%] shadow-2xl mt-5 hover:scale-110 duration-300'/>
       </motion.div>
       <motion.div
         initial={{ opacity: 0 }}
@@ -46,7 +46,7 @@ function WebApp() {
       >
         <h1 className={styles.title}>Comienza tu viaje con SoftionPro</h1>
         <div className='flex px-36 mb-16 items-center'>
-          <img src="/images/homeSoftion.jpg" alt="" className=' border-gray-950 shadow-gray-600 w-[50%] shadow-2xl mt-5'/>
+          <img src="/images/listPage.png" alt="" className=' border-gray-950 shadow-gray-600 w-[50%] shadow-2xl mt-5'/>
           <div className='flex flex-col items-center'>
             <h3 className={styles.subtitle + " w-[85%]  px-12"}>
               SoftionPro es una herramienta web accesible desde cualquier navegador y ahora también desde tu móvil. No importa dónde estés, siempre podrás gestionar tus proyectos con SoftionPro. Haz clic en el botón de abajo para comenzar tu viaje con nosotros.

@@ -8,7 +8,7 @@ function About() {
   return (
     <div className="flex flex-col items-center justify-center">
       <h1 className={styles.title}>Conócenos</h1>
-      <p className={styles.subtitle}>Somos una empresa dedicada a [descripción breve de la empresa].</p>
+      <p className={styles.subtitle}>Somos una empresa dedicada al desarrollo y gestion de software encargada de solucionar y satisfacer las necesidades de nuestros clientes .</p>
       <div className="flex justify-around w-[85%] my-12 ">
       <section className="mb-12 bg-white shadow-2xl px-12 py-5 ">
         <h2 className={styles.title2}>Nuestra Misión</h2>
@@ -31,7 +31,8 @@ function About() {
       </section>
       <section className="mb-12">
         <h2 className={styles.title}>Nuestro Equipo</h2>
-        <p className={styles.subtitle}>[Descripción breve del equipo].</p>
+        <p className={styles.subtitle}>Nuestro equipo de expertos es altamente comprometido con la excelencia y la satisfacción de nuestros clientes. Nos aseguramos de que cada proyecto sea un éxito.</p>
+        
       </section>
     </div>
   )
